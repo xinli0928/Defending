@@ -6,7 +6,7 @@ This repository is an implementation of the paper "[Defending against adversaria
 OCT Images Dataset
 -----
 * OCT Images (108,312 Images)
-  * [Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning.](https://nihcc.app.box.com/v/ChestXray-NIHhttps://data.mendeley.com/datasets/rscbjbr9sj/2?__hstc=25856994.66107b564b7081c415821d4b3628b78f.1603985675250.1603985675250.1603985675250.1&__hssc=25856994.1.1603985675251&__hsfp=970748020CC)  
+  * [Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning.](https://data.mendeley.com/datasets/rscbjbr9sj/2)  
 
 
 Model Training and Evaluation
